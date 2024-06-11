@@ -15,7 +15,7 @@ import TheWelcome from './components/TheWelcome.vue';
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-      TodoList
+      conflict111
     </div>
   </header>
 
